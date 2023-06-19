@@ -42,7 +42,11 @@
         width: 100%;
         text-align: center;
     }
-
+    br {
+        display: none;
+    }
+    
+    
     .sec-display-n {
         display: block;
     }
