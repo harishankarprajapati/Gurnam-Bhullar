@@ -192,3 +192,9 @@ color: #FFFFFF;
 mix-blend-mode: normal;
 text-align: right;
 }
+.sec-full-bgg22 {
+    background-image: url(../images/book-gg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
