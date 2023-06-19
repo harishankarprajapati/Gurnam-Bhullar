@@ -134,7 +134,6 @@
 
 .sec-display-n {
     display: flex;
-    flex-direction: row-reverse;
 }
 
 .sec-footer-bgg {
@@ -148,6 +147,10 @@
     color: #0081FE;
     font-size: 20px;
 }
+.sec-w-dd {
+    width: 20%;
+}
+
 
 .sec-call-icon2 {
     font-family: 'Montserrat';
