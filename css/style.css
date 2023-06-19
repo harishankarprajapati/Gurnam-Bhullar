@@ -134,6 +134,7 @@
 
 .sec-display-n {
     display: flex;
+    flex-direction: row-reverse;
 }
 
 .sec-footer-bgg {
