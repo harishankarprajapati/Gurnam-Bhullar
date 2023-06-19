@@ -7,7 +7,7 @@
     .container-md,
     .container-sm,
     .container-xl {
-        min-width: 1400px !important;
+        min-width: 1500px !important;
     }
 
 }
