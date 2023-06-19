@@ -1,0 +1,194 @@
+@font-face {
+    font-family: 'TrajanPro-Bold';
+    src: url(../fonts/Trajan-Pro-Regular/TrajanPro-Bold.otf);
+}
+
+
+
+.sec-full-bgg {
+    background-image: url(../images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-diamond-h {
+    font-family: 'Trajan Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 135.2%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: -70px;
+}
+
+.sec-live-pp {
+    font-family: 'TrajanPro-Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125.2%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.sec-address-p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 126.2%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.sec-date-h {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 88.2%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.btn-sec {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 88.2%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #1D155E;
+    border-radius: 73px;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+.sec-btn-padd {
+    padding: 40px 0px 60px 0px;
+}
+
+.btn-sec:hover {
+    color: #1D155E;
+    background: #fff;
+}
+
+.sec-all-pading {
+    padding: 80px 0px;
+}
+
+.sec-tick-h {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 125.2%;
+    color: #000000;
+    padding-bottom: 20px;
+}
+
+.sec-pric-pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 100.7%;
+    color: #000000;
+
+}
+
+.sectttp {
+    padding-top: 20px;
+}
+
+.sec-our-pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 100.2%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.sec-evevt-hh {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 125.2%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+.sec-display-n {
+    display: flex;
+}
+
+.sec-footer-bgg {
+    background-image: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 10px;
+}
+
+.sec-call-icon {
+    color: #0081FE;
+    font-size: 20px;
+}
+
+.sec-call-icon2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.sec-socacal-p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+}
+.sec-icon-socal{
+    color: #fff;
+    padding-left: 10px;    
+}
+.sec-tect-hh{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-transform: uppercase;
+color: #FFFFFF;
+padding-left: 40px;
+text-decoration: none;
+}
+.sec-copy-pp{
+    font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+text-align: right;
+}
